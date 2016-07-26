@@ -44,7 +44,7 @@ Example (mynumbers_out.txt):
 
 ### Python
 ```
-$ python selectSort [input file]
+$ python selectSort.py [input file]
 ```
 
 ### R
