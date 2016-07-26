@@ -10,7 +10,7 @@ Binary file, which contains list of numbers which splits by comma.
 
 Example (mynumbers.txt):
 ```
-4354,234325,7217,26,89235,903,573,45,146
+23.456,7634.5,456,4567.1,34,5678,204.9087,3.14159
 ```
 
 ### Output
@@ -19,7 +19,7 @@ Binary file, which contains sorted list of numbers which splits by comma.
 
 Example (mynumbers_out.txt):
 ```
-26,45,146,573,903,4354,7217,89235,234325
+3.14159,23.456,34,204.9087,456,4567.1,5678,7634.5
 ```
 
 ## How-To Use
