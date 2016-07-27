@@ -39,8 +39,6 @@ Example (mynumbers_out.txt):
 ### Matlab
 
 
-### Perl
-
 
 ### Python
 ```
@@ -49,8 +47,6 @@ $ python [sort method].py [input file]
 
 ### R
 
-
-### Ruby
 
 
 ### Scala
