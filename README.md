@@ -33,14 +33,14 @@ Example (mynumbers_out.txt):
 ### Java
 
 
-### JavaScript
+### JavaScript (Node.js)
 
 
 ### Matlab
 
 
 
-### Python
+### Python (2.7)
 ```
 $ python [sort method].py [input file]
 ```
